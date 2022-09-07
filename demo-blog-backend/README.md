@@ -1,6 +1,6 @@
 # Simple BLOG - Spring boot REST API
 
-Simple demo blog with basic functionality such as basic authentication, create/update/delete
+Simple demo blog with basic functionality such as JWT authentication, create/retrieve/update/delete
 posts and comments.
 
 ## API Usage
@@ -152,19 +152,3 @@ HTTP `DELETE` request to the `comments` endpoint. Authentication required.\
 Method: `DELETE`\
 Endpoint: `http://localhost:8080/api/comments/{id}` \
 A successful request is indicated by a `204 No Content` HTTP status code.
-
-## Run with default H2 database
-
-Start application with h2 in memory database, default profile
-
-## Run with Postgres database
-
-Install Postgres locally, run initial-schema sql script, start application with `postgres` profile.
-
-## Access the application
-
-Start frontend application run `npm start` command, it will start application and
-open main window [http://localhost:3000](http://localhost:3000) in the browser.
-Blog is pre-populated with demo data on application start in both `default` and `postgres` profiles. Login with any author full name
-password is `password`,
-administrator username: `admin` password: `admin`.
