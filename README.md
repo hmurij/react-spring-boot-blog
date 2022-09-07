@@ -25,4 +25,5 @@ username: `admin` password: `admin`. [Link](./demo-blog-backend/README.md) to RE
 2. Navigate to `demo-blog-frontend` and run npm start command, it will start frontend application and open main window on [http://localhost:3000](http://localhost:3000).
 
 ### Reference
-* Blog REST API [documentation](./demo-blog-backend/README.md).
+* [Blog REST API documentation](./demo-blog-backend/README.md)
+* [Sister project using Thymeleaf and Spring MVC](https://github.com/hmurij/thymeleaf-spring-mvc-blog)
