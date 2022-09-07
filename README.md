@@ -13,7 +13,7 @@
 React Spring Boot Gradle project for demonstration and educational purposes. Simple demo blog with basic functionality such as JWT
 authentication, create new users and full CRUD (Create, Retrieve, Update, Delete) operations on posts and comments. Blog is pre-populated
 with demo data on application start. Create new user or login with any author full name, password is `password`, administrator
-username: `admin` password: `admin`. [Link](./demo-blog-backend/README.md) to REST API documentation.
+username: `admin` password: `admin`.
 
 ### Installation
 
