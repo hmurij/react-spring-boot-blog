@@ -22,7 +22,7 @@ username: `admin` password: `admin`.
 
 ### Access the application
 1. Navigate to `demo-blog-backend` and run `gradlew bootRun` to start backend Spring Boot REST API application.
-2. Navigate to `demo-blog-frontend` and run npm start command, it will start frontend application and open main window on [http://localhost:3000](http://localhost:3000).
+2. Navigate to `demo-blog-frontend` and run `npm start` command, it will start frontend application and open main window on [http://localhost:3000](http://localhost:3000).
 
 ### Reference
 * [Blog REST API documentation](./demo-blog-backend/README.md)
