@@ -1,4 +1,4 @@
-# Simple demo Blog - React - Spring Boot Gradle project
+# Simple demo Blog - React - Java - Spring Boot - Full Stack App
 
 ![React](https://img.shields.io/badge/React-18.2.0-61dafb)
 ![JDK](https://img.shields.io/badge/JDK-17-orange)
@@ -10,7 +10,7 @@
 
 ### Description
 
-React Spring Boot Gradle project for demonstration and educational purposes. Simple demo blog with basic functionality such as JWT
+React Java Spring Boot full stack application for demonstration and educational purposes. Simple demo blog with basic functionality such as JWT
 authentication, create new users and full CRUD (Create, Retrieve, Update, Delete) operations on posts and comments. Blog is pre-populated
 with demo data on application start. Create new user or login with any author full name, password is `password`, administrator
 username: `admin` password: `admin`.
