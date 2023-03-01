@@ -1,4 +1,4 @@
-# Simple demo Blog - React - Java - Spring Boot - Full Stack App
+# Simple Blog React Java Spring Boot Full Stack App
 
 ![React](https://img.shields.io/badge/React-18.2.0-61dafb)
 ![JDK](https://img.shields.io/badge/JDK-17-orange)
